@@ -1,0 +1,13 @@
+{
+  "searchKey": "Toys",
+  "sortBy": "Price: Low to High",
+  "primeOnly": false,
+  "delivery": null,
+  "ageRange": "5 to 7 Years",
+  "priceRange": {
+    "low": "0",
+    "high": "10"
+  },
+  "deals": "All Discounts",
+  "fourStarsUp": false
+}

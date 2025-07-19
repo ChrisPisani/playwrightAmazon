@@ -1,0 +1,13 @@
+{
+  "searchKey": "Toys",
+  "sortBy": "Avg. Customer Review",
+  "primeOnly": false,
+  "delivery": null,
+  "ageRange": "Birth to 24 Months",
+  "priceRange": {
+    "low": "50",
+    "high": "70"
+  },
+  "deals": null,
+  "fourStarsUp": false
+}

@@ -1,0 +1,13 @@
+{
+  "searchKey": "Toys",
+  "sortBy": "Newest Arrivals",
+  "primeOnly": true,
+  "delivery": "Get it by Tomorrow",
+  "ageRange": "8 to 13 Years",
+  "priceRange": {
+    "low": "10",
+    "high": "50"
+  },
+  "deals": null,
+  "fourStarsUp": true
+}

@@ -1,0 +1,13 @@
+{
+  "searchKey": "Toys",
+  "sortBy": "Best Sellers",
+  "primeOnly": false,
+  "delivery": "Get it by Tomorrow",
+  "ageRange": "8 to 13 Years",
+  "priceRange": {
+    "low": "10",
+    "high": "50"
+  },
+  "deals": "All Discounts",
+  "fourStarsUp": true
+}

@@ -1,0 +1,13 @@
+{
+  "searchKey": "Toys",
+  "sortBy": "Featured",
+  "primeOnly": true,
+  "delivery": "Get it by Tomorrow",
+  "ageRange": "2 to 4 Years",
+  "priceRange": {
+    "low": "50",
+    "high": "80"
+  },
+  "deals": "Today’s Deals",
+  "fourStarsUp": true
+}

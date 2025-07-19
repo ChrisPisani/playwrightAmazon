@@ -1,0 +1,13 @@
+{
+  "searchKey": "Toys",
+  "sortBy": "Newest Arrivals",
+  "primeOnly": true,
+  "delivery": null,
+  "ageRange": "14 Years & Up",
+  "priceRange": {
+    "low": "80",
+    "high": ""
+  },
+  "deals": "Today’s Deals",
+  "fourStarsUp": false
+}
