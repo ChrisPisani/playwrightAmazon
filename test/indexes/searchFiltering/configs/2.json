@@ -3,11 +3,11 @@
   "sortBy": "Price: Low to High",
   "primeOnly": false,
   "delivery": "Get it by Tomorrow",
-  "ageRange": "2 to 4 Years",
+  "ageRange": "Birth to 24 Months",
   "priceRange": {
     "low": "0",
     "high": "10"
   },
-  "deals": "Today’s Deals",
+  "deals": "All Discounts",
   "fourStarsUp": false
 }

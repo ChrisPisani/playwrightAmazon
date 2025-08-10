@@ -2,13 +2,13 @@ const fs = require('fs');
 const path = require('path');
 const { execSync } = require('child_process');
 
-const testFile = 'test/indexes/buyProducts';
+const testFile = 'test/indexes/searchFiltering';
 const testName = path.basename(testFile);
 const configsDir = path.join(__dirname, testFile, 'configs');
 const resultsDir = path.join(__dirname, 'playwright-results');
 const videoOutputDir = path.join(__dirname, 'videos');
 
-const configFiles = ['1.json', '2.json', '3.json'];
+const configFiles = ['1.json', '2.json', '3.json', '4.json', '5.json', '6.json'];
 
 function findLatestVideoPath(dir) {
   const allDirs = fs.readdirSync(dir, { withFileTypes: true }).filter(d => d.isDirectory());

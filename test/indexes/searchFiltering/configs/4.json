@@ -2,8 +2,8 @@
   "searchKey": "Toys",
   "sortBy": "Avg. Customer Review",
   "primeOnly": false,
-  "delivery": null,
-  "ageRange": "Birth to 24 Months",
+  "delivery": "Get it by Tomorrow",
+  "ageRange": "5 to 7 Years",
   "priceRange": {
     "low": "50",
     "high": "70"

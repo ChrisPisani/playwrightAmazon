@@ -8,6 +8,6 @@
     "low": "10",
     "high": "50"
   },
-  "deals": "All Discounts",
-  "fourStarsUp": true
+  "deals": "Today’s Deals",
+  "fourStarsUp": false
 }
