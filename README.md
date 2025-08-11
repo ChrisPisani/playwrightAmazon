@@ -27,7 +27,7 @@ This project implements automated end-to-end (E2E) testing of Amazon.com’s sea
 ### 1. Clone the Repository
 
 ```bash
-git clone https://gitlab.com/your-username/playwrightAmazon.git
+git clone https://gitlab.com/ChrisPisani/playwrightAmazon.git
 cd playwrightAmazon
 npm install
 npx playwright install
